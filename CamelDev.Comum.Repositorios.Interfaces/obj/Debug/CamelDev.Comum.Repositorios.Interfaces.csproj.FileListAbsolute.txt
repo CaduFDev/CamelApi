@@ -1,0 +1,6 @@
+C:\Users\cefam\OneDrive\Área de Trabalho\TreinaWeb\AspNet\CamelDev.CamelApi\CamelDev.Comum.Repositorios.Interfaces\bin\Debug\CamelDev.Comum.Repositorios.Interfaces.dll
+C:\Users\cefam\OneDrive\Área de Trabalho\TreinaWeb\AspNet\CamelDev.CamelApi\CamelDev.Comum.Repositorios.Interfaces\bin\Debug\CamelDev.Comum.Repositorios.Interfaces.pdb
+C:\Users\cefam\OneDrive\Área de Trabalho\TreinaWeb\AspNet\CamelDev.CamelApi\CamelDev.Comum.Repositorios.Interfaces\obj\Debug\CamelDev.Comum.Repositorios.Interfaces.csproj.AssemblyReference.cache
+C:\Users\cefam\OneDrive\Área de Trabalho\TreinaWeb\AspNet\CamelDev.CamelApi\CamelDev.Comum.Repositorios.Interfaces\obj\Debug\CamelDev.Comum.Repositorios.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\cefam\OneDrive\Área de Trabalho\TreinaWeb\AspNet\CamelDev.CamelApi\CamelDev.Comum.Repositorios.Interfaces\obj\Debug\CamelDev.Comum.Repositorios.Interfaces.dll
+C:\Users\cefam\OneDrive\Área de Trabalho\TreinaWeb\AspNet\CamelDev.CamelApi\CamelDev.Comum.Repositorios.Interfaces\obj\Debug\CamelDev.Comum.Repositorios.Interfaces.pdb

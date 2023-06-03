@@ -1,0 +1,6 @@
+C:\Users\cefam\OneDrive\Área de Trabalho\TreinaWeb\AspNet\CamelDev.CamelApi\CamelDev.CamelApi.Domain]\bin\Debug\CamelDev.CamelApi.Domain].dll
+C:\Users\cefam\OneDrive\Área de Trabalho\TreinaWeb\AspNet\CamelDev.CamelApi\CamelDev.CamelApi.Domain]\bin\Debug\CamelDev.CamelApi.Domain].pdb
+C:\Users\cefam\OneDrive\Área de Trabalho\TreinaWeb\AspNet\CamelDev.CamelApi\CamelDev.CamelApi.Domain]\obj\Debug\CamelDev.CamelApi.Domain.csproj.AssemblyReference.cache
+C:\Users\cefam\OneDrive\Área de Trabalho\TreinaWeb\AspNet\CamelDev.CamelApi\CamelDev.CamelApi.Domain]\obj\Debug\CamelDev.CamelApi.Domain.csproj.CoreCompileInputs.cache
+C:\Users\cefam\OneDrive\Área de Trabalho\TreinaWeb\AspNet\CamelDev.CamelApi\CamelDev.CamelApi.Domain]\obj\Debug\CamelDev.CamelApi.Domain].dll
+C:\Users\cefam\OneDrive\Área de Trabalho\TreinaWeb\AspNet\CamelDev.CamelApi\CamelDev.CamelApi.Domain]\obj\Debug\CamelDev.CamelApi.Domain].pdb

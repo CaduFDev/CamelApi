@@ -1,0 +1,16 @@
+C:\Users\cefam\OneDrive\Área de Trabalho\TreinaWeb\AspNet\CamelDev.CamelApi\CamelDev.CamelApi.DAO\bin\Debug\CamelDev.CamelApi.DAO.dll.config
+C:\Users\cefam\OneDrive\Área de Trabalho\TreinaWeb\AspNet\CamelDev.CamelApi\CamelDev.CamelApi.DAO\bin\Debug\CamelDev.CamelApi.DAO.dll
+C:\Users\cefam\OneDrive\Área de Trabalho\TreinaWeb\AspNet\CamelDev.CamelApi\CamelDev.CamelApi.DAO\bin\Debug\CamelDev.CamelApi.DAO.pdb
+C:\Users\cefam\OneDrive\Área de Trabalho\TreinaWeb\AspNet\CamelDev.CamelApi\CamelDev.CamelApi.DAO\bin\Debug\CamelDev.CamelApi.Domain].dll
+C:\Users\cefam\OneDrive\Área de Trabalho\TreinaWeb\AspNet\CamelDev.CamelApi\CamelDev.CamelApi.DAO\bin\Debug\EntityFramework.dll
+C:\Users\cefam\OneDrive\Área de Trabalho\TreinaWeb\AspNet\CamelDev.CamelApi\CamelDev.CamelApi.DAO\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\cefam\OneDrive\Área de Trabalho\TreinaWeb\AspNet\CamelDev.CamelApi\CamelDev.CamelApi.DAO\bin\Debug\CamelDev.CamelApi.Domain].pdb
+C:\Users\cefam\OneDrive\Área de Trabalho\TreinaWeb\AspNet\CamelDev.CamelApi\CamelDev.CamelApi.DAO\bin\Debug\EntityFramework.xml
+C:\Users\cefam\OneDrive\Área de Trabalho\TreinaWeb\AspNet\CamelDev.CamelApi\CamelDev.CamelApi.DAO\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\cefam\OneDrive\Área de Trabalho\TreinaWeb\AspNet\CamelDev.CamelApi\CamelDev.CamelApi.DAO\obj\Debug\CamelDev.CamelApi.DAO.csproj.AssemblyReference.cache
+C:\Users\cefam\OneDrive\Área de Trabalho\TreinaWeb\AspNet\CamelDev.CamelApi\CamelDev.CamelApi.DAO\obj\Debug\CamelDev.CamelApi.DAO.csproj.CoreCompileInputs.cache
+C:\Users\cefam\OneDrive\Área de Trabalho\TreinaWeb\AspNet\CamelDev.CamelApi\CamelDev.CamelApi.DAO\obj\Debug\CamelDev.CamelApi.DAO.csproj.CopyComplete
+C:\Users\cefam\OneDrive\Área de Trabalho\TreinaWeb\AspNet\CamelDev.CamelApi\CamelDev.CamelApi.DAO\obj\Debug\CamelDev.CamelApi.DAO.dll
+C:\Users\cefam\OneDrive\Área de Trabalho\TreinaWeb\AspNet\CamelDev.CamelApi\CamelDev.CamelApi.DAO\obj\Debug\CamelDev.CamelApi.DAO.pdb
+C:\Users\cefam\OneDrive\Área de Trabalho\TreinaWeb\AspNet\CamelDev.CamelApi\CamelDev.CamelApi.DAO\obj\Debug\CamelDev.CamelApi.DAO.Migrations.CriacaoDeAlunos.resources
+C:\Users\cefam\OneDrive\Área de Trabalho\TreinaWeb\AspNet\CamelDev.CamelApi\CamelDev.CamelApi.DAO\obj\Debug\CamelDev.CamelApi.DAO.csproj.GenerateResource.cache

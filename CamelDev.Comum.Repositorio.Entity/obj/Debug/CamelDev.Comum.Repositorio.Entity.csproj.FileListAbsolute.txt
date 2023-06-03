@@ -1,0 +1,14 @@
+C:\Users\cefam\OneDrive\Área de Trabalho\TreinaWeb\AspNet\CamelDev.CamelApi\CamelDev.Comum.Repositorio.Entity\bin\Debug\CamelDev.Comum.Repositorio.Entity.dll.config
+C:\Users\cefam\OneDrive\Área de Trabalho\TreinaWeb\AspNet\CamelDev.CamelApi\CamelDev.Comum.Repositorio.Entity\bin\Debug\CamelDev.Comum.Repositorio.Entity.dll
+C:\Users\cefam\OneDrive\Área de Trabalho\TreinaWeb\AspNet\CamelDev.CamelApi\CamelDev.Comum.Repositorio.Entity\bin\Debug\CamelDev.Comum.Repositorio.Entity.pdb
+C:\Users\cefam\OneDrive\Área de Trabalho\TreinaWeb\AspNet\CamelDev.CamelApi\CamelDev.Comum.Repositorio.Entity\bin\Debug\CamelDev.Comum.Repositorios.Interfaces.dll
+C:\Users\cefam\OneDrive\Área de Trabalho\TreinaWeb\AspNet\CamelDev.CamelApi\CamelDev.Comum.Repositorio.Entity\bin\Debug\EntityFramework.dll
+C:\Users\cefam\OneDrive\Área de Trabalho\TreinaWeb\AspNet\CamelDev.CamelApi\CamelDev.Comum.Repositorio.Entity\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\cefam\OneDrive\Área de Trabalho\TreinaWeb\AspNet\CamelDev.CamelApi\CamelDev.Comum.Repositorio.Entity\bin\Debug\CamelDev.Comum.Repositorios.Interfaces.pdb
+C:\Users\cefam\OneDrive\Área de Trabalho\TreinaWeb\AspNet\CamelDev.CamelApi\CamelDev.Comum.Repositorio.Entity\bin\Debug\EntityFramework.xml
+C:\Users\cefam\OneDrive\Área de Trabalho\TreinaWeb\AspNet\CamelDev.CamelApi\CamelDev.Comum.Repositorio.Entity\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\cefam\OneDrive\Área de Trabalho\TreinaWeb\AspNet\CamelDev.CamelApi\CamelDev.Comum.Repositorio.Entity\obj\Debug\CamelDev.Comum.Repositorio.Entity.csproj.AssemblyReference.cache
+C:\Users\cefam\OneDrive\Área de Trabalho\TreinaWeb\AspNet\CamelDev.CamelApi\CamelDev.Comum.Repositorio.Entity\obj\Debug\CamelDev.Comum.Repositorio.Entity.csproj.CoreCompileInputs.cache
+C:\Users\cefam\OneDrive\Área de Trabalho\TreinaWeb\AspNet\CamelDev.CamelApi\CamelDev.Comum.Repositorio.Entity\obj\Debug\CamelDev.Comum.Repositorio.Entity.csproj.CopyComplete
+C:\Users\cefam\OneDrive\Área de Trabalho\TreinaWeb\AspNet\CamelDev.CamelApi\CamelDev.Comum.Repositorio.Entity\obj\Debug\CamelDev.Comum.Repositorio.Entity.dll
+C:\Users\cefam\OneDrive\Área de Trabalho\TreinaWeb\AspNet\CamelDev.CamelApi\CamelDev.Comum.Repositorio.Entity\obj\Debug\CamelDev.Comum.Repositorio.Entity.pdb
